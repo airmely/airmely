@@ -1,18 +1,27 @@
-## Hi there 👋
+# Hi everyone 👋
+### 🛠️ Technologies
+- Programming languages: Python
+- Frameworks: Django, Django REST Framework
+- Databases: PostgreSQL
+- Caching: Redis
+- Tasks: Celery
 
-<!--
-**airmely/airmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![airmely's Stats](https://github-readme-stats.vercel.app/api?username=airmely&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![airmely's Streak](https://github-readme-streak-stats.herokuapp.com/?user=airmely&theme=tokyonight&hide_border=false)
+```
+                                                   (
+                                                    )
+                                                   (
+                                                /\  .-"""-.  /\
+                                               //\\/  ,,,  \//\\
+                                               |/\| ,;;;;;, |/\|
+                                               //\\\;-"""-;///\\
+                                              //  \/   .   \/  \\
+                                             (| ,-_| \ | / |_-, |)
+                                               //`__\.-.-./__`\\
+                                              // /.-(() ())-.\ \\
+                                             (\ |)   '---'   (| /)
+                                              ` (|           |) `
+                                                \)           (/
+
+```
