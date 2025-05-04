@@ -10,20 +10,3 @@
 - Web Server: Nginx
 
 ![airmely's Streak](https://github-readme-streak-stats.herokuapp.com/?user=airmely&theme=tokyonight&hide_border=false)
-```
-                                                   (
-                                                    )
-                                                   (
-                                                /\  .-"""-.  /\
-                                               //\\/  ,,,  \//\\
-                                               |/\| ,;;;;;, |/\|
-                                               //\\\;-"""-;///\\
-                                              //  \/   .   \/  \\
-                                             (| ,-_| \ | / |_-, |)
-                                               //`__\.-.-./__`\\
-                                              // /.-(() ())-.\ \\
-                                             (\ |)   '---'   (| /)
-                                              ` (|           |) `
-                                                \)           (/
-
-```
